@@ -1,0 +1,1 @@
+Risky Sexual Behaviour (RSB) data analysis was a primary research that was conducted to examine factors that were associated with risky sexual behaviours among adolescents. Univariable and Multivariable Logistic Regression Models were conducted during the analysis.
